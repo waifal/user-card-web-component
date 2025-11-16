@@ -1,7 +1,6 @@
 class UserCard extends HTMLElement {
     constructor() {
-        super();
-
+        // super();
         this.innerHTML = this.skeleton;
         this.preloadAvatar();
     }
