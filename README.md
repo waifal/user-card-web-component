@@ -40,8 +40,8 @@ Add a `<user-card>` element with optional attributes:
     avatar      =   "https://avatar.iran.liara.run/public/12"
     bio         =   "Focused on building clean, scalable, and user-centered applications."
     btn1-label  =   "View Profile"
-    btn2-label  =   "Message">
-</user-card>
+    btn2-label  =   "Message"
+></user-card>
 ```
 
 ### Example
