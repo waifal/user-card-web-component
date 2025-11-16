@@ -3,7 +3,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwind-css&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
-![License: MIT](https://img.shields.io/badge/License-MIT-green)
 
 A simple, reusable custom web component for displaying user information with a skeleton loading state using Tailwind CSS.
 
@@ -14,7 +13,6 @@ A simple, reusable custom web component for displaying user information with a s
 - [Usage](#usage)
   - [Example](#example)
 - [Attributes](#attributes)
-- [MIT License](#license)
 
 ## Preview
 
@@ -57,9 +55,3 @@ Add a `<user-card>` element with optional attributes:
 | `bio`        | Short biography             | Lorem ipsum                             |
 | `btn1-label` | Label for the first button  | View Profile                            |
 | `btn2-label` | Label for the second button | Message                                 |
-
----
-
-## License
-
-MIT License — free to use and modify.
