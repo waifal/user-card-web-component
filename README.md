@@ -27,7 +27,6 @@ A simple, reusable custom web component for displaying user information with a s
 - Fully Tailwind CSS-based
 - Handles avatar loading and fallback
 - Supports custom labels, roles, bios, and buttons
-- Optional simple male/female avatars
 
 ## Usage
 
