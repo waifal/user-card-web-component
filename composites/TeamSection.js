@@ -22,7 +22,7 @@ class TeamSection extends CompositeBase {
                         ></user-card>
                         <user-card 
                             label   =   "Daniel Brooks"
-                            role    =   "Daniel Brooks"
+                            role    =   "Cybersecurity Specialist"
                             avatar  =   "https://avatar.iran.liara.run/public/18"
                             bio     =   "Cybersecurity professional dedicated to protecting systems, data, and users from modern threats. I’m passionate about threat analysis, secure architecture, and staying ahead in an ever-evolving security landscape."
                         ></user-card>
